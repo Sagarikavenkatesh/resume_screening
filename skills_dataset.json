@@ -1,0 +1,5 @@
+{
+  "Data Analyst": ["python", "excel", "sql", "tableau", "statistics", "data", "analysis", "visualization"],
+  "Power BI Analyst": ["power", "bi", "dax", "m", "visualization", "dashboard", "reporting", "sql"],
+  "Machine Learning Engineer": ["python", "machine", "learning", "tensorflow", "pytorch", "model", "training", "nlp"]
+}
